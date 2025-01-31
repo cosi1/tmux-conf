@@ -1,0 +1,2 @@
+tmux new-window "vim $1"
+
